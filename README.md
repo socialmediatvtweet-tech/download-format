@@ -30,7 +30,9 @@ Quick Start Guide
     
 
 # Example
-(genesis.download)[https://raw.githubusercontent.com/JakubFribl/osltxt/main/README.md](https://www.google.com/search?q=https://raw.githubusercontent.com/JakubFribl/osltxt/main/README.md)Hello world! This is the genesis file of the .download ecosystem.
+(genesis.download)
+[https://raw.githubusercontent.com/JakubFribl/osltxt/main/README.md](https://www.google.com/search?q=https://raw.githubusercontent.com/JakubFribl/osltxt/main/README.md)
+Hello world! This is the genesis file of the .download ecosystem.
 
 # License
 MIT

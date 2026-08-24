@@ -1,0 +1,23 @@
+{
+    "version": "1.0.0",
+    "description": "A minimalist, text-based file format specification and handler for clean automation and lightweight file associations.",
+    "homepage": "https://github.com/socialmediatvtweet-tech/download-format",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/socialmediatvtweet-tech/download-format/releases/download/v1.0.0/osldown.exe",
+            "hash": "sha256:ce12c45f820c94c1106ab82fa64bb0ec1f258dd30c92480acb20761b3a437d5a"
+        }
+    },
+    "bin": [
+        "osldown.exe"
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/socialmediatvtweet-tech/download-format/releases/download/v$version/osldown.exe"
+            }
+        }
+    }
+}

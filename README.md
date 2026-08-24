@@ -34,5 +34,14 @@ Quick Start Guide
 [https://raw.githubusercontent.com/JakubFribl/osltxt/main/README.md](https://www.google.com/search?q=https://raw.githubusercontent.com/JakubFribl/osltxt/main/README.md)
 Hello world! This is the genesis file of the .download ecosystem.
 
+# Installation via Scoop
+If you use the [Scoop](https://scoop.sh/) package manager, you can install osltxt using my custom bucket:
+```bash
+1.  scoop bucket add scoop-downloadformat https://github.com/socialmediatvtweet-tech/download-format
+```
+
+```bash
+2.  scoop install downloadformat
+ ```
 # License
 MIT

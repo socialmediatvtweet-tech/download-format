@@ -44,8 +44,7 @@ If you use the [Scoop](https://scoop.sh/) package manager, you can install osltx
 2.  scoop install downloadformat
  ```
 
-Installation via Bash Script
-----------------------------
+# Installation via Bash Script
 
 If you prefer using a terminal installation script on Linux, macOS, or WSL, you can install osltxt directly with this command:
 ```bash

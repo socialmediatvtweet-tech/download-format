@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>downloadformat</id>
+    <version>1.0.0</version>
+    <packageSourceUrl>https://github.com/socialmediatvtweet-tech/download-format</packageSourceUrl>
+    <owners>Jakub Fríbl</owners>
+    
+    <title>Download Format (OslDown)</title>
+    <authors>Jakub Fríbl</authors>
+    <projectUrl>https://github.com/socialmediatvtweet-tech/download-format</projectUrl>
+    <copyright>© 2026 Jakub Fríbl</copyright>
+    <licenseUrl>https://github.com/socialmediatvtweet-tech/download-format/blob/main/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectSourceUrl>https://github.com/socialmediatvtweet-tech/download-format</projectSourceUrl>
+    <docsUrl>https://github.com/socialmediatvtweet-tech/download-format/wiki</docsUrl>
+    <bugTrackerUrl>https://github.com/socialmediatvtweet-tech/download-format/issues</bugTrackerUrl>
+    
+    <tags>downloadformat osldown cli automation file-format</tags>
+    <summary>A minimalist, text-based .download file format specification and tool.</summary>
+    <description>A minimalist, text-based .download file format specification designed for clean automation, lightweight file associations, and seamless application deployment.</description>
+    <releaseNotes>https://github.com/socialmediatvtweet-tech/download-format/releases/tag/v1.0.0</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
